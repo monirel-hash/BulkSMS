@@ -52,3 +52,10 @@ Run the script from the command line:
 ```
 python send_sms_imessage.py
 ```
+
+
+Security:
+Do not commit your credentials.json file to any public repositories.
+Ensure your Google Sheet is only accessible by your Google Service Account.
+Contributing
+Contributions are welcome! Please feel free to submit a pull request.
