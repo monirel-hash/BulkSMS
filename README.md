@@ -11,6 +11,4 @@ python3 send_sms_imessage.py
 > I used Python to make it simple xD
 
 Inspired by [Night].
-# BulkSMS# BulkSMS
-# BulkSMS
 # BulkSMS
